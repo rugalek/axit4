@@ -31,7 +31,7 @@
 .redletters {
     color: #EC7979;
 }
-/*
+
 .navigation-buttons {
 
     display: block;
@@ -49,13 +49,11 @@
     display: inline-block;
     height: 20px;
 }
-*/
+
 .header {
-    margin-left: auto;
-    margin-right: auto;
-    width: 1400px;
+
+
     height: 600px;
-    background-image: url(/img/city.png);
    
 }
 
